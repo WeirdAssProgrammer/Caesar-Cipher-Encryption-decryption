@@ -2,7 +2,7 @@
 a basic implementation of Caesar cipher
 
 ## Usage 
-''' bash
+'''bash
 python3 file.py
 '''
 
