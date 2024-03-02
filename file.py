@@ -14,9 +14,9 @@ Mode:
 """
 )
 mode = input("(*)> ")
-key = input("(*)> Key: ")
+key = int(input("(*)> Key: "))
 if int(mode) == 1 and key:
-	msg = int(input("(*)> plaintext: "))
+	msg = input("(*)> plaintext: ")
 	print(encryption(msg, key))
 elif int(mode) == 2 and key:
 	msg = input("(*)> cipher: ")
