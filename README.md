@@ -1,9 +1,9 @@
-# Caesar-Cipher-Encryption-decryption
-a basic implementation of Caesar cipher
+# Caesar and Affine Ciphers Encryptor and decryptor
+a basic implementation of Caesar and Affine ciphers
 
 ## Usage 
 ```bash
-python3 file.py
+python3 {filename}.py
 ```
 
 then supply the attack mode and the text 
